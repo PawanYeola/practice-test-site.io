@@ -1,2 +1,3 @@
-# practice-test-site
-Using the knowledge/information I gained from the "test-site.github.io", I've build a new website with my own creativity.
+Using the knowledge/information I gained from the <a>PawanYeola/test-site.github.io</a>, I've build a new website with my own creativity.
+The website is based on a information page for gamers, in which I've mentioned some of the best games released or yet to release in 2026 (at the point of uploading this repository) in my opinion.
+The code includes some basic HTML and CSS. I've not included any JavaScript as I don't have any knowledge about it yet, but I might commit some changes related to JavaScript in the future. The code is solely based on the knowledge/information I gained from the "MDN Web Docs", "Your first website" module.
